@@ -25,3 +25,5 @@ function showEmojis(count = emojiCodes.length) {
         gallery.append(card);
     }
 }
+
+showEmojis();

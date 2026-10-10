@@ -27,3 +27,5 @@ function showEmojis(count = emojiCodes.length) {
 }
 
 showEmojis();
+
+// Completed the assignment, moving onto to GPages and publishing. 
